@@ -2,7 +2,7 @@
 title: "PhD Talks"
 collection: talks
 type: "Talk"
-permalink: /talks/2013-09-01-PhD-talks
+permalink: /talks/PhD-talks
 ---
 
 * 26/08/16 "The Separate Universe Approach to Soft Limits", Cosmology Seminar, Penn State University.
