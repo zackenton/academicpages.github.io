@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience ASI"
+title: "Teaching experience, ASI Data Science"
 collection: teaching
 type: "Fellowship courses"
 permalink: /teaching/2017-teaching

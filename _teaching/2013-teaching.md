@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience"
+title: "Teaching experience, Queen Mary University of London"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2013-teaching
