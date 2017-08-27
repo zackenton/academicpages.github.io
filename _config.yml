@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Zac Kenton"
-  avatar           : "images/ZacPic.jpg"
+  avatar           : "ZacPic.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
