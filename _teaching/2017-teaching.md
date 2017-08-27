@@ -13,4 +13,4 @@ location: "London, UK"
   * Data Visualisation
 
  * Fellowship Mentor, ASI Data Science Fellowship, 2017
-  * Breast Cancer Now Project
+    * Breast Cancer Now Project
