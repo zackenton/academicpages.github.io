@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my webpage!
-
-I am now a research intern at the University of Montreal, in the Montreal Institute for Learning Algorithms, to work with Dr Devansh Arpit and Prof Yoshua Bengio. My major interests are in Machine Learning, specifically Deep Learning and Reinforcement Learning. I am looking to work in AI Safety - how we can align machine learning systems with human preferences.
+I am now a Research Intern at the University of Montreal, in the Montreal Institute for Learning Algorithms, working with Dr Devansh Arpit and Prof Yoshua Bengio. My major interests are in Machine Learning, specifically Deep Learning and Reinforcement Learning. I am looking to work in AI Safety - how we can align machine learning systems with human preferences.
 
 Before this I was a Data Scientist at ASI Data Science. At ASI I applied machine learning to a range of projects for various organisations. I built a recommendation system for a major supermarket, made predictive models for a political campaign and improved donor engagement for a breast cancer charity.
 
@@ -18,4 +16,4 @@ I just completed my PhD at Queen Mary University of London, where I studied Phys
 
 Before my PhD I studied Mathematics at the University of Cambridge.
 
-Outside of work I am a community organiser and I love to paint.
+Outside of work I like building community and I love to paint. I am involved in the Effective Altruism movement who support my research. Message me if you want to get in touch.
