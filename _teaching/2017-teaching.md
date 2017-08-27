@@ -12,5 +12,4 @@ location: "London, UK"
   * Support Vector Machines
   * Data Visualisation
 
- * Fellowship Mentor, ASI Data Science Fellowship, 2017
-    * Breast Cancer Now Project
+* Fellowship Mentor, ASI Data Science Fellowship, 2017

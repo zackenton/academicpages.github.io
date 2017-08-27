@@ -14,4 +14,3 @@ location: "London, UK"
   * General Relativity
 
 * Masters Dissertation Supervisor, 2016
-    * Supervised masters thesis on early universe cosmology
