@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Visiting Researcher at the University of Montreal, in the Montreal Institute for Learning Algorithms (MILA), working with Dr Devansh Arpit and Prof Yoshua Bengio on generalization in deep learning. My major interests are in theoretical aspects of deep learning, including generalization theory and the geometry of loss surfaces and the links between statistical physics and deep learning. I am also particularly interested in Reinforcement Learning and AI Safety - how we can align machine learning systems with human preferences.
+I am a Visiting Researcher at the University of Montreal, in the Montreal Institute for Learning Algorithms (MILA), working with Dr Devansh Arpit and Prof Yoshua Bengio on generalization in deep learning. My major interests are in theoretical aspects of deep learning, including generalization theory, the geometry of loss surfaces and the links between statistical physics and deep learning. I am also interested in Reinforcement Learning and AI Safety - how we can align machine learning systems with human preferences. In particular, how generalization theory can give theoretical guarantees which may be useful for alignment of future systems.
 
 Before this I was a Data Scientist at ASI Data Science. At ASI I applied machine learning to a range of projects for various organisations. I built a recommendation system for a major supermarket, made predictive models for a political campaign and improved donor engagement for a breast cancer charity.
 
