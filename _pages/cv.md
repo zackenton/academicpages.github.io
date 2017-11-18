@@ -9,13 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* PhD in Physics, Queen Mary University of London, 2017
-* MA (Cantab) MMath, Mathematics, University of Cambridge, Distinction, 2013
 
 Work experience
 ======
+* Visiting Researcher, Montreal Institute for Learning Algorithms (MILA), University of Montreal, Sept 2017 - Dec 2017
+  * Joint lead author on Three Factors influencing minima in SGD, with Jastrzebski, Arpit, Ballas, Fischer, Bengio and Storkey https://arxiv.org/abs/1711.04623
+  * Gave MILA Seminar on Three Factors influencing minima in SGD
+  * Began project on evolutionary exploration in SGD with David Krueger
+  * Reading groups on theoretical deep learning, reinforcement learning, adversarial learning
+  * AI Safety lunch discussions
+
 * Data Scientist, ASI Data Science, Jan 2017 - August 2017
   * Built a recommendation system for a major supermarket
   * Predictive modelling for a political campaign
@@ -26,6 +29,11 @@ Work experience
   * Statistical Physics
   * Quantum Mechanics
   * General Relativity
+
+Education
+======
+* PhD in Physics, Queen Mary University of London, 2017
+* MA (Cantab) MMath, Mathematics, University of Cambridge, Distinction, 2013
 
 
 Publications
