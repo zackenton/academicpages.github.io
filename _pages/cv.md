@@ -13,7 +13,7 @@ redirect_from:
 Work experience
 ======
 * Visiting Researcher, Montreal Institute for Learning Algorithms (MILA), University of Montreal, Sept 2017 - Dec 2017
-  * Joint lead author on Three Factors influencing minima in SGD, with Jastrzebski, Arpit, Ballas, Fischer, Bengio and Storkey https://arxiv.org/abs/1711.04623
+  * Joint lead author on [Three Factors influencing minima in SGD](https://arxiv.org/abs/1711.04623), with Jastrzebski, Arpit, Ballas, Fischer, Bengio and Storkey
   * Gave MILA Seminar on Three Factors influencing minima in SGD
   * Began project on evolutionary exploration in SGD with David Krueger
   * Reading groups on theoretical deep learning, reinforcement learning, adversarial learning
