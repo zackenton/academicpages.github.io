@@ -11,7 +11,7 @@ I am currently a Research Assistant at the Future of Humanity Institute (FHI), U
 
 Prior to FHI, I was a Visiting Researcher at the University of Montreal, in the Montreal Institute for Learning Algorithms (MILA), where I worked with Yoshua Bengio and others on generalization in deep learning.
 
-Before that I was briefly a Data Scientist at ASI Data Science, where I applied machine learning to a range of projects for various organisations. I built a recommendation system for a major supermarket, made predictive models for a political campaign and built donor engagement models for a breast cancer charity.
+Before that I was briefly a Data Scientist at ASI Data Science, where I applied machine learning to a range of projects for various organisations. I built a recommendation system for a major supermarket and made predictive models for a political campaign.
 
 In 2017 I completed my PhD at Queen Mary University of London, where I studied Theoretical Physics. My PhD research was on the overlap of string theory and cosmology, focussing on the physics of the early universe, just after the big bang.
 
