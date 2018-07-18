@@ -29,7 +29,7 @@ Work experience
 * Data Scientist, ASI Data Science, Jan 2017 - August 2017
   * Built a recommendation system for a major supermarket
   * Predictive modelling for a political campaign
-  * Built educational tools for machine learning on a Raspberry Pi
+
 
 * QMUL: Teaching Assistant, 2013 - 2016
   * Statistical Physics
