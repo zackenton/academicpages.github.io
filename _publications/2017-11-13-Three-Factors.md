@@ -1,7 +1,7 @@
 ---
 title: "Three Factors influencing Minima in SGD"
 collection: publications
-permalink: /publication/2017-17-13-Three-Factors
+permalink: /publication/2017-11-13-Three-Factors
 excerpt: 'Three Factors influencing Minima in SGD'
 date: 2017-11-13
 venue: 'arxiv, accepted to ICANN 2018'
