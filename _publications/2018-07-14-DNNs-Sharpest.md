@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2018-07-14-DNNs-Sharpest
 excerpt: 'DNNs Sharpest Directions Along the SGD Trajectory'
 date: 2018-07-14
-venue: 'arxiv, submitted to NIPS 2018'
-paperurl: 'https://arxiv.org/abs/1807.05031'
+venue: 'ICLR, 2019'
+paperurl: 'https://openreview.net/forum?id=SkgEaj05t7&noteId=ryxqdQ7Je4'
 citation: 'Jastrzębski, Stanisław; Kenton, Zachary; Ballas, Nicolas; Fischer, Asja; Bengio, Yoshua; Storkey, Amos (2018). "DNNs Sharpest Directions Along the SGD Trajectory"'
 ---
 DNN's Sharpest Directions Along the SGD Trajectory
 
-[Download paper here](https://arxiv.org/abs/1807.05031)
+[Download paper here](https://openreview.net/forum?id=SkgEaj05t7&noteId=ryxqdQ7Je4)
