@@ -12,7 +12,9 @@ redirect_from:
 
 Work experience
 ======
-* Postdoctoral Researcher, Computer Science Department, University of Oxford, Sep 2018 -
+* Research Scientist, DeepMind, Oct 2019 -
+
+* Postdoctoral Researcher, Computer Science Department, University of Oxford, Sep 2018 - Oct 2019
   * Lead on AI Safety projects in Prof Yarin Gal's machine learning group.
 
 * Research Assistant, Future of Humanity Institute, University of Oxford, Feb 2018 -
